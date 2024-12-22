@@ -10,7 +10,7 @@ I'm Haruta Uchino, a Master's student in Electrical and Electronic Engineering a
     - Email: github.flashing699@silomails.com
     - Website: https://harutauchino.github.io/
     - X: https://x.com/HarutaUchino
-    - Linkedin: https:www.linkedin.com/in/haruta-u-3120562b2
+    - Linkedin: https://www.linkedin.com/in/haruta-u-3120562b2
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I was awarded the Graduate School Entrance Fee Exemption and JASSO dual scholarship for academic achievement, reflecting my dedication to continuous learning and excellence.
 
